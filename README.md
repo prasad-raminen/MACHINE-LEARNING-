@@ -1,5 +1,8 @@
 # MACHINE-LEARNING-
 Hey this contains 4 projects : 
+                                
+                                
+                                
                                 1) Analyzed bias-variance tradeoff by training polynomial regression models with Ridge/Lasso 
                                   regularization on real-world pricing data to optimize model generalization.
 
